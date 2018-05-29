@@ -2,15 +2,11 @@
 layout: paper
 title: Cardiometabolic risk loci share downstream cis- and trans-gene regulation across tissues and diseases.
 image: 
-authors: Franzén O(1), Ermel R(2), Cohain A(3), Akers NK(3), Di Narzo A(3), Talukdar
-HA(4), Foroughi-Asl H(4), Giambartolomei C(5), Fullard JF(5), Sukhavasi K(6),
-Köks S(6), Gan LM(7), Giannarelli C(8), Kovacic JC(9), Betsholtz C(10), Losic
-B(3), Michoel T(11), Hao K(3), Roussos P(12), Skogsberg J(4), Ruusalepp A(13),
-Schadt EE(3), Björkegren JL(14).
+authors: Franzén O, Ermel R, Cohain A, Akers NK, Di Narzo A, Talukdar HA, Foroughi-Asl H, Giambartolomei C, Fullard JF, Sukhavasi K, Köks S, Gan LM, Giannarelli C, Kovacic JC, Betsholtz C, Losic B, Michoel T, Hao K, Roussos P, Skogsberg J, Ruusalepp A, Schadt EE, Björkegren JL.
 year: 2016.
 ref: Franzén et al. 2016. Science.
 journal: Science.
-pdf: 
+pdf: /pdfs/papers/cardiometabolic-risk-loci.pdf
 doi: 10.1126/science.aad6970 
 ---
 

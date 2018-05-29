@@ -3,10 +3,10 @@ layout: paper
 title: Characterization of drug-induced splicing complexity in prostate cancer cell line using long read technology.
 image: 
 authors: Chen X, Houten S, Allette K, Sebra RP, Stolovitzky G, Losic B.
-year: 
-ref: 
-journal: Pac Symp Biocomput 
-pdf: 
+year: 2018
+ref: Chen et al. 2018. Pac Symp Biocomput.
+journal: Pac Symp Biocomput.
+pdf: /pdfs/papers/drug-induced-splicing-prostate-cancer.pdf
 doi: https://doi.org/10.1142/9789813235533_0002 
 ---
 

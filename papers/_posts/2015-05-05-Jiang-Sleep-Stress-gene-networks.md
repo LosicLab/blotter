@@ -2,13 +2,11 @@
 layout: paper
 title: A systems approach identifies networks and genes linking sleep and stress:\ implications for neuropsychiatric disorders.
 image: 
-authors: Jiang P(1), Scarpa JR(2), Fitzpatrick K(1), Losic B(2), Gao VD(1), Hao K(2),
-Summa KC(1), Yang HS(1), Zhang B(2), Allada R(1), Vitaterna MH(1), Turek FW(3),
-Kasarskis A(4).
+authors: Jiang P, Scarpa JR, Fitzpatrick K, Losic B, Gao VD, Hao K, Summa KC, Yang HS, Zhang B, Allada R, Vitaterna MH, Turek FW, Kasarskis A.
 year: 2015
 ref: Jiang et al. 2015. Cell Rep.
 journal: Cell Rep.
-pdf: 
+pdf: /pdfs/papers/sleep-stress-neuropsych-networks.pdf
 doi: 10.1016/j.celrep.2015.04.003.
 ---
 

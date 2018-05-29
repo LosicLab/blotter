@@ -2,14 +2,11 @@
 layout: paper
 title: Genome-wide mapping of methylated adenine residues in pathogenic Escherichia coli using single-molecule real-time sequencing.
 image: 
-authors: Fang G(1), Munera D, Friedman DI, Mandlik A, Chao MC, Banerjee O, Feng Z, Losic
-B, Mahajan MC, Jabado OJ, Deikus G, Clark TA, Luong K, Murray IA, Davis BM,
-Keren-Paz A, Chess A, Roberts RJ, Korlach J, Turner SW, Kumar V, Waldor MK,
-Schadt EE.
+authors: Fang G, Munera D, Friedman DI, Mandlik A, Chao MC, Banerjee O, Feng Z, Losic B, Mahajan MC, Jabado OJ, Deikus G, Clark TA, Luong K, Murray IA, Davis BM, Keren-Paz A, Chess A, Roberts RJ, Korlach J, Turner SW, Kumar V, Waldor MK, Schadt EE.
 year: 2012
 ref: Fang et al. 2012. Nat Biotechnol.
 journal: Nat Biotechnol.
-pdf: 
+pdf: /pdfs/papers/Fang-2012-Nat-Biotechnol.pdf
 doi: 10.1038/nbt.2432.
 ---
 

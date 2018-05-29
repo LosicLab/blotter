@@ -2,15 +2,11 @@
 layout: paper
 title: Massive parallel sequencing uncovers actionable FGFR2-PPHLN1 fusion and ARAF mutations in intrahepatic cholangiocarcinoma.
 image: 
-authors: Sia D(1), Losic B(2), Moeini A(3), Cabellos L(4), Hao K(2), Revill K(4), Bonal
-D(4), Miltiadous O(4), Zhang Z(2), Hoshida Y(4), Cornella H(3), Castillo-Martin
-M(4), Pinyol R(3), Kasai Y(5), Roayaie S(6), Thung SN(4), Fuster J(3), Schwartz
-ME(4), Waxman S(4), Cordon-Cardo C(4), Schadt E(5), Mazzaferro V(7), Llovet
-JM(8).
+authors: Sia D, Losic B, Moeini A, Cabellos L, Hao K, Revill K, Bonal D, Miltiadous O, Zhang Z, Hoshida Y, Cornella H, Castillo-Martin M, Pinyol R, Kasai Y, Roayaie S, Thung SN, Fuster J, Schwartz ME, Waxman S, Cordon-Cardo C, Schadt E, Mazzaferro V, Llovet JM.
 year: 2015
 ref: Sia et al. 2015. Nat Commun.
 journal: Nat Commun.
-pdf: 
+pdf: /pdfs/papers/Sia-2015-Nat-Commun.pdf
 doi: 10.1038/ncomms7087.
 ---
 

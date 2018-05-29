@@ -2,18 +2,11 @@
 layout: paper
 title: A functional genomics predictive network model identifies regulators of inflammatory bowel disease.
 image: 
-authors: Peters LA(1)(2)(3), Perrigoue J(4), Mortha A(5)(6), Iuga A(7), Song WM(1)(2),
-Neiman EM(4), Llewellyn SR(1)(2)(8)(9), Di Narzo A(1)(2), Kidd BA(1)(2), Telesco 
-SE(4), Zhao Y(1)(2), Stojmirovic A(4), Sendecki J(4), Shameer K(1)(2), Miotto
-R(1)(2)(10), Losic B(1)(2), Shah H(2), Lee E(1)(2), Wang M(1)(2), Faith
-JJ(1)(2)(9), Kasarskis A(1)(2), Brodmerkel C(4), Curran M(4), Das A(4), Friedman 
-JR(4), Fukui Y(11), Humphrey MB(12), Iritani BM(13), Sibinga N(14), Tarrant
-TK(15)(16), Argmann C(1)(2), Hao K(1)(2), Roussos P(1)(2), Zhu J(1)(2)(3), Zhang 
-B(1)(2), Dobrin R(4)(17), Mayer LF(9)(18), Schadt EE(1)(2)(3).
+authors: Peters LA, Perrigoue J, Mortha A, Iuga A, Song WM, Neiman EM, Llewellyn SR, Di Narzo A, Kidd BA, Telesco SE, Zhao Y, Stojmirovic A, Sendecki J, Shameer K, Miotto R, Losic B, Shah H, Lee E, Wang M, Faith JJ, Kasarskis A, Brodmerkel C, Curran M, Das A, Friedman JR, Fukui Y, Humphrey MB, Iritani BM, Sibinga N, Tarrant TK, Argmann C, Hao K, Roussos P, Zhu J, Zhang B, Dobrin R, Mayer LF, Schadt EE.
 year: 2017
 ref: Peters et al. 2017. Nat Genet.
 journal: Nat Genet.
-pdf: 
+pdf: /pdfs/papers/IBD-functional-predictive-model.pdf
 doi: 10.1038/ng.3947
 ---
 

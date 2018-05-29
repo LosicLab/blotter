@@ -6,7 +6,7 @@ authors: Akers NK, Schadt EE, Losic B
 year: 2018
 ref: Akers et al. 2018. Bioinformatics.
 journal: "Bioinformatics, bty091"
-pdf: 
+pdf: /pdfs/papers/STARChip.pdf
 doi: 10.1093/bioinformatics/bty091
 github: https://github.com/LosicLab/STARChip
 ---
