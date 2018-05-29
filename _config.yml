@@ -45,23 +45,7 @@ exclude:
   - "*.xml"
   - "Gemfile"
   - "Gemfile.lock"
-  - "projects/nextflu/auspice/index.html"
-  - "projects/nextflu/auspice/css/*"
-  - "projects/nextflu/auspice/h3n2/*"
-  - "projects/nextflu/auspice/h1n1pdm/*"
-  - "projects/nextflu/auspice/vic/*"
-  - "projects/nextflu/auspice/yam/*"
-  - "projects/nextflu/auspice/zika/*"
-  - "projects/nextflu/auspice/zibra/*"
-  - "projects/nextflu/auspice/muttree/*"
-  - "projects/nextflu/auspice/reports/*"
-  - "projects/nextflu/auspice/js/*"
-  - "projects/nextflu/auspice/cdc/*"
-  - "projects/nextflu/auspice/gisaid/*"
-  - "projects/auspice/src/*"
-  - "projects/siv-cst/beast/main/empiricalTrees/xml/*"
-  - "projects/siv-cst/beast/supplement/discreteTraits/xml/*"
-  - "projects/siv-cst/beast/supplement/empiricalTrees/xml/*"
 
 projects:
-  - 
+  - LosicLab/starchip
+  - WaveCNV/WaveCNV-caller
