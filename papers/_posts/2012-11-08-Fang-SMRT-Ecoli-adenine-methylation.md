@@ -7,7 +7,7 @@ year: 2012
 ref: Fang et al. 2012. Nat Biotechnol.
 journal: Nat Biotechnol.
 pdf: /pdfs/papers/Fang-2012-Nat-Biotechnol.pdf
-doi: 10.1038/nbt.2432.
+doi: https://doi.org/10.1038/nbt.2432
 ---
 
 # Abstract

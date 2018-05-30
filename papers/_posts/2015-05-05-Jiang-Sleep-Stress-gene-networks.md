@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: A systems approach identifies networks and genes linking sleep and stress:\ implications for neuropsychiatric disorders.
+title: A systems approach identifies networks and genes linking sleep and stress:/ implications for neuropsychiatric disorders.
 image: 
 authors: Jiang P, Scarpa JR, Fitzpatrick K, Losic B, Gao VD, Hao K, Summa KC, Yang HS, Zhang B, Allada R, Vitaterna MH, Turek FW, Kasarskis A.
 year: 2015

@@ -1,13 +1,13 @@
 ---
 layout: paper
-title: Biopsy transcriptome expression profiling to identify kidney transplants at risk of chronic injury:\ a multicentre, prospective study.
+title: Biopsy transcriptome expression profiling to identify kidney transplants at risk of chronic injury:/ a multicentre, prospective study.
 image: 
 authors: O'Connell PJ, Zhang W, Menon MC, Yi Z, Schröppel B, Gallon L, Luan Y, Rosales IA, Ge Y, Losic B, Xi C, Woytovich C, Keung KL, Wei C, Greene I, Overbey J, Bagiella E, Najafian N, Samaniego M, Djamali A, Alexander SI, Nankivell BJ, Chapman JR, Smith RN, Colvin R, Murphy B.
 year: 2016
 ref: O'Connel et al. 2016. Lancet.
 journal:  Lancet.
 pdf: /pdfs/papers/kidney-transplant-chronic-injury.pdf
-doi: 10.1016/S0140-6736(16)30826-1.
+doi: https://doi.org/10.1016/S0140-6736(16)30826-1
 ---
 
 # Abstract

@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: WaveCNV:\ allele-specific copy number alterations in primary tumors and xenograft models from next-generation sequencing.
+title: WaveCNV:/ allele-specific copy number alterations in primary tumors and xenograft models from next-generation sequencing.
 image: 
 authors: Holt C, Losic B, Pai D, Zhao Z, Trinh Q, Syam S, Arshadi N, Jang GH, Ali J, Beck T, McPherson J, Muthuswamy LB.
 year: 2014

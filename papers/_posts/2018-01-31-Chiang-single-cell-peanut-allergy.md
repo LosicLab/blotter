@@ -7,7 +7,7 @@ year: 2018
 ref: Chiang et al. 2018. J Allergy Clin Immunol.
 journal: J Allergy Clin Immunol.
 pdf: /pdfs/papers/single-cell-peanut-allergy.pdf
-doi: 10.1016/j.jaci.2017.11.060.
+doi: https://doi.org/10.1016/j.jaci.2017.11.060
 ---
 
 # Abstract
