@@ -7,7 +7,7 @@ year: 2017
 ref: Sia et al. 2017. Gastroenterology.
 journal: Gastroenterology.
 pdf: /pdfs/papers/immune-specific-HCC.pdf
-doi: https://doi.org/10.1053/j.gastro.2017.06.007
+doi: 10.1053/j.gastro.2017.06.007
 ---
 
 # Abstract

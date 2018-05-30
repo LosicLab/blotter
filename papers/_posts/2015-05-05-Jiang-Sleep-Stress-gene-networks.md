@@ -7,7 +7,7 @@ year: 2015
 ref: Jiang et al. 2015. Cell Rep.
 journal: Cell Rep.
 pdf: /pdfs/papers/sleep-stress-neuropsych-networks.pdf
-doi: 10.1016/j.celrep.2015.04.003.
+doi: 10.1016/j.celrep.2015.04.003
 ---
 
 # Abstract

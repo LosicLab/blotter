@@ -7,7 +7,7 @@ year: 2016
 ref: O'Connel et al. 2016. Lancet.
 journal:  Lancet.
 pdf: /pdfs/papers/kidney-transplant-chronic-injury.pdf
-doi: https://doi.org/10.1016/S0140-6736(16)30826-1
+doi: 10.1016/S0140-6736(16)30826-1
 ---
 
 # Abstract

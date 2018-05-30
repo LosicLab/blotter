@@ -7,7 +7,7 @@ year: 2017
 ref: Galsky et al. 2017. Eur Urol.
 journal: Eur Urol.
 pdf: /pdfs/papers/phase-2-trial-chemo-immune-blockade.pdf
-doi: https://doi.org/10.1016/j.eururo.2017.12.001 
+doi: 10.1016/j.eururo.2017.12.001 
 ---
 
 # Abstract

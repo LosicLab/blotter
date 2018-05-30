@@ -7,7 +7,7 @@ year: 2018
 ref: Chen et al. 2018. Pac Symp Biocomput.
 journal: Pac Symp Biocomput.
 pdf: /pdfs/papers/drug-induced-splicing-prostate-cancer.pdf
-doi: https://doi.org/10.1142/9789813235533_0002 
+doi: 10.1142/9789813235533_0002 
 ---
 
 # Abstract

@@ -7,7 +7,7 @@ year: 2017
 ref: Peters et al. 2017. Nat Genet.
 journal: Nat Genet.
 pdf: /pdfs/papers/IBD-functional-predictive-model.pdf
-doi: https://doi.org/10.1038/ng.3947
+doi: 10.1038/ng.3947
 ---
 
 # Abstract

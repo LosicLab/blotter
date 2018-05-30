@@ -7,7 +7,7 @@ year: 2018
 ref: Akers et al. 2018. Bioinformatics.
 journal: "Bioinformatics"
 pdf: /pdfs/papers/STARChip.pdf
-doi: https://doi.org.10.1093/bioinformatics/bty091
+doi: 10.1093/bioinformatics/bty091
 github: https://github.com/LosicLab/STARChip
 ---
 

@@ -7,7 +7,7 @@ year: 2017
 ref: Wang et al. 2017. Nat Commun.
 journal: Nat Commun.
 pdf: /pdfs/papers/beta-cell-regeneration.pdf
-doi: https://doi.org/10.1038/s41467-017-00992-9
+doi: 10.1038/s41467-017-00992-9
 ---
 
 # Abstract

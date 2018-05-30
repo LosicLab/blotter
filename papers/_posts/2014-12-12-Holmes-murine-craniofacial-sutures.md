@@ -7,7 +7,7 @@ year: 2015
 ref: Holmes et al. 2015. Gene Expr Patterns.
 journal: Gene Expr Patterns.
 pdf: /pdfs/papers/Holmes-2015-Gene-Expr-Patterns.pdf
-doi: https://doi.org/10.1016/j.gep.2014.12.001
+doi: 10.1016/j.gep.2014.12.001
 ---
 
 # Abstract

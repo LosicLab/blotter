@@ -7,7 +7,7 @@ year: 2016
 ref: Scarpa et al. 2016. PLoS Genet.
 journal: PLoS Genet.
 pdf: /pdfs/papers/huntingtons-astrocyte-networks.PDF
-doi: 10.1371/journal.pgen.1006137.
+doi: 10.1371/journal.pgen.1006137
 ---
 
 # Abstract

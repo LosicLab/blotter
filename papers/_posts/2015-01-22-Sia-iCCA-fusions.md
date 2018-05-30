@@ -7,7 +7,7 @@ year: 2015
 ref: Sia et al. 2015. Nat Commun.
 journal: Nat Commun.
 pdf: /pdfs/papers/Sia-2015-Nat-Commun.pdf
-doi: 10.1038/ncomms7087.
+doi: 10.1038/ncomms7087
 ---
 
 # Abstract
