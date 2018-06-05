@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Julieta Saluzzo
-position: Staff Scientist
+position: Graduate Student
 handle:
 email: 
 github: 
