@@ -2,11 +2,11 @@ name: Losic Lab Research
 description: Science updates on immunogenomics from the Losic lab at the Icahn School of Medicine at Mount Sinai
 url: https://losiclab.github.io
 
-markdown: redcarpet
+markdown: kramdown
 permalink: /:categories/:title/
 future: true
 
-redcarpet:
+kramdown:
   extensions:
    - tables
    - no_intra_emphasis
