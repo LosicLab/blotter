@@ -50,5 +50,3 @@ exclude:
 projects:
   - LosicLab/starchip
   
-
-theme: jekyll-theme-cayman
