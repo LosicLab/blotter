@@ -10,5 +10,3 @@ image:
 cv: 
 alumni: true
 ---
-
-(insert short bio)

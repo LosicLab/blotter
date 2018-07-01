@@ -11,4 +11,3 @@ image:
 cv: 
 ---
 
-(insert short bio)
