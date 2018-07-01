@@ -45,6 +45,7 @@ exclude:
   - "*.xml"
   - "Gemfile"
   - "Gemfile.lock"
+  - "Icon"
 
 projects:
   - LosicLab/starchip
