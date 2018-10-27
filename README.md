@@ -1,4 +1,4 @@
-# bedford lab research
+# losiclab.github.io
 
 ## Build site
 
