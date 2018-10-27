@@ -8,7 +8,6 @@ github: eegk
 scholar: 
 image: /images/team/eegk.jpg
 cv: https://eegk.github.io/eegk.2018.oct.pdf
-alumni: true
 ---
 
 Edgar joined the lab in Oct/2018 with a background in immunology and data mining. Outside the lab, Edgar enjoys life, music, basketball, swimming, hiking and running.
