@@ -10,4 +10,5 @@ image: /images/team/paula_restrepo.jpg
 cv: 
 ---
 
-Paula joined the Losic Lab in 2018 after finishing undergraduate studies in Biology at George Washington University. She has experience in cancer transcriptomics, involving the integration of RNA-seq and exome-seq data-sets. She is broadly interested in transcriptomic analyses, including cancer mechanisms, as well as epigenetics, gene-regulation, and structural changes within a braod range of human diseases. Outside the lab, Paula enjoys bicycling, painting, writing, and alt/indie rock.
+
+Paula is an associate researcher in the Losic Group at Mount Sinai, where she uses bioinformatic approaches to interrogate the biological interplay between the immune system and human disease. Broadly, her research interests include the integrative analysis of multiple data types, immune interactions, epigenetic and genetic regulation, and genomic structural changes. Currently, her major research areas include IBD and cancer immunotherapy. Prior to Sinai, she completed her BA in Biology at George Washington University in Washington DC, where she integrated RNA-seq and whole-exome data to assess the influence of allele-specific expression in cancer driver mutations.
